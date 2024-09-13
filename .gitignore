@@ -2,3 +2,4 @@ images/
 kivy_practice/
 .venv2
 .env
+__pycache__/

@@ -1,0 +1,1 @@
+Create app with GUI to start a camera, capture a snapshot, upload the snapshot to filestack and retrieve a link to the uploaded image.
